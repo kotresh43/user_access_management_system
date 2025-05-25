@@ -12,4 +12,5 @@ Manager: Approves or rejects software access requests.
 Admin: Manages users, software, and all access-related functionality.
 
 Manager: username = manager, password = manager_password
+
 Admin: username = admin, password = admin_password
